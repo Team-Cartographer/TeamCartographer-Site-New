@@ -1,0 +1,36 @@
+{
+    "projects": [
+        {
+            "name": "NASA JSC App Development Challenge",
+            "date": "2022-2023",
+            "description": "High school teams have 10 weeks to submit a video showcasing their app to visualize the South Pole region of the Moon utilizing lunar terrain data and display essential information for navigation and communication. Teams with favorable submissions advance to present their app in an interview with NASA subject matter experts from the SCaN team.",
+            "link": "https://www.nasa.gov/learning-resources/app-development-challenge/about-nasa-app-development-challenge-adc/",
+            "github": "https://github.com/Team-Cartographer/cartographerADC23",
+            "ranking": "Top 3 Nationwide"
+        },
+        {
+            "name": "NASA JSC SUITS Collegiate Research, Design, and Development Challenge",
+            "date": "2023-2024",
+            "description": "NASA Spacesuit User Interface Technologies for Students (NASA SUITS) is a design challenge in which college students from across the country help design user interface solutions for future spaceflight needs. Teams are expected to design user interfaces (UI), and the underlying software for spacesuits, and new for 2023, a mission control console for use on the surface of Mars.",
+            "link": "https://www.nasa.gov/learning-resources/spacesuit-user-interface-technologies-for-students/",
+            "github": "https://github.com/Team-Cartographer/SUITS-2024-LMCC",
+            "ranking": "Top 11 Selected Nationwide"
+        },
+        {
+            "name": "JAXA/NASA JSC Kibo Robot Programming Challenge 2023",
+            "date": "2023",
+            "description": "Kibo-RPC is an educational program in which students solve various problems by programming free-flying robots (Astrobee and Int-Ball) in the International Space Station (ISS). Kibo-RPC will inspire students to develop their educational and professional goals to a higher level.",
+            "link": "https://jaxa.krpc.jp/",
+            "github": "https://github.com/Team-Cartographer/Kibo-RPC",
+            "ranking": "Top 10 Nationwide"
+        },
+        {
+            "name": "NASA Space Apps Hackathon",
+            "date": "2023",
+            "description": "The NASA International Space Apps Challenge is a hackathon for coders, scientists, designers, storytellers, makers, technologists, and innovators around the world to come together and use open data from NASA and its Space Agency Partners to create solutions to challenges we face on Earth and in space.",
+            "link": "https://www.spaceappschallenge.org/",
+            "github": "https://github.com/Team-Cartographer/Space-Apps-2023-Data",
+            "ranking": "Top 500 Globally and Pasadena Regional Winners"
+        }
+    ]
+}
