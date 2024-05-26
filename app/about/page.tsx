@@ -10,7 +10,7 @@ const About = () => {
             </p>
 
             <p>
-            The team was initially established in 2022 by two Anaheim high schoolers, who, motivated by a previous engineering competition, sought out another opportunity in computer science, recruiting other students who shared the same passions. As such, Team Cartographer began its first competition participating in the 2023 NASA App Development Challenge, where they distinguished themselves as one of the top three finalists nationwide. 
+            The team was initially established in 2022 by two Anaheim high schoolers (Kion Manesh (UCLA '28), and Natalie Kwok (Columbia '28)), who, motivated by a previous engineering competition, sought out another opportunity in computer science, recruiting other students who shared the same passions. As such, Team Cartographer began its first competition participating in the 2023 NASA App Development Challenge, where they distinguished themselves as one of the top three finalists nationwide. 
             </p>
 
             <p>
